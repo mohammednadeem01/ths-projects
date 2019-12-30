@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+}
+
+
+
+#battery {
+    background-color: rgb(56, 240, 32);
+    width: 200px;
+    border: 8px solid rgb(0, 0, 0);
+    padding: 20px;
+    margin: 25px;
+    align-content:center;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -100px;
+    border-radius: 15px;
+    right: 20px;
+    height: 50px;
+ }
+
+
+.not{
+    background-color:rgb(0, 0, 0);
+    width: 5px;
+    height: 30px;
+    top:29px;
+    position: absolute;
+    border-radius: 20px;
+    left:248px;
+}
